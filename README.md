@@ -13,12 +13,42 @@
 RubyよりもPythonが好きです。お仕事はKotlin使ってます。
 自作キーボードはHelixとmint60を愛用しています。
 
-Docker / Scala / Kotlin / PHP/ C / Java / 🍺
+# Skill
+- 言語
+  - 業務経験
+    - Kotlin
+    - Python
+    - Java
+    - C
+  - 読み書き可能
+    - JavaScript
+- フロントエンド
+  - Android
+  - React(かなり過去）
+- その他技術
+  - Jupyter
+  - Agile
+  - Firebase
+  - Docker
+  - git/GitHub/GitLab
+  - CircleCI
+
+## メイン
+現在はAndroidをメインで業務をしている。
+マルチモジュールやAACを利用したアーキテクチャの構築を行っている。
+
+- 使えるライブラリ
+  - Coroutine
+  - Flow
+  - RxJava/RxKotlin
+  - Android architecture component
+  - などなど
 
 # 職歴
 - 株式会社Mobility Technologies 2020/04〜
-  - エンジニア
   - 事業の承継により転籍
+  - エンジニア
+    - タクシー乗務員が使用する業務用アプリの新規統合開発
 - 株式会社ディー・エヌ・エー 2018/08〜2020/03
   - Androidエンジニア
     - 自動運転車内のデジタルサイネージ用アプリ開発
