@@ -105,12 +105,14 @@ RubyよりもPythonが好きです。お仕事はKotlin使ってます。
 - DroidKaigi 2018 運営スタッフ
 - DroidKaigi 2019 運営スタッフ
 - DroidKaigi 2020 運営スタッフ(DroidKaigi 2020は中止）
+- DroidKaigi 2022 運営スタッフ
+- DroidKaigi 2023 運営スタッフ
 
 # 受賞歴
 - Mashup Awards 2016 For Pro 最優秀賞 [Link](https://ma2017.we-are-ma.jp/winninglist-2016/)
 - HSRハッカソン2015 in MEGA WEB 2位 [Link](https://robotstart.info/2015/09/15/hsr-hackathon-2015-in-mega-web-report-4.html)
 - 第8回レスキューロボットコンテスト　サンリツオートメイション賞 [Link](https://www.rescue-robot-contest.org/forTeam/8th-contest/honsen/hyousyou)
-- 高専ロボコン２００６ 東海北陸地区大会デザイン賞 [Link](http://www.gifu-nct.ac.jp/mecha/inaba/2006/result.html)
+- 高専ロボコン2006 東海北陸地区大会デザイン賞 [Link](http://www.gifu-nct.ac.jp/mecha/inaba/2006/result.html)
 
 # 執筆
 - Android ADK プログラミング&電子工作バイブル 2012/05
