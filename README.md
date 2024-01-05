@@ -5,13 +5,18 @@
 現在関東地方に在住
 
 昔は、ロボットのやわらかいところを作ってました。
+
 今は、サービスのやわらかいところを作ってます。
 
 エディタはVim派。でもmacで作業する時はemacsキーバインドが好き。
-ドキュメンテーションビルダーはRe:VIEWよりもSphinxが好きです。
-でも最近はMarkdownで書くだけで満足してます。
+
+ドキュメンテーションビルダーはRe:VIEWよりもSphinxが好きです。でも最近はMarkdownで書くだけで満足してます。
+
 RubyよりもPythonが好きです。お仕事はKotlin使ってます。
-自作キーボードはHelixとmint60を愛用しています。
+
+GitHub Actionsを使って色々と自動化するのが楽しいです。
+
+愛用キーボードはHHKB Studioです。
 
 # Skill
 - 言語
@@ -31,17 +36,17 @@ RubyよりもPythonが好きです。お仕事はKotlin使ってます。
   - Firebase
   - Docker
   - git/GitHub/GitLab
-  - CircleCI
 
 ## メイン
 現在はAndroidをメインで業務をしている。
 マルチモジュールやAACを利用したアーキテクチャの構築を行っている。
 
 - 使えるライブラリ
-  - Coroutine
+  - Kotlin Coroutine
   - Flow
   - RxJava/RxKotlin
   - Android architecture component
+  - Jetpack Compose
   - などなど
 
 ## 業務上で経験した技術
